@@ -1,0 +1,182 @@
+[
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang++ -DOHMD_STATIC -Ddriver_openhmd_EXPORTS -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openvr\" -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -Wall -std=gnu++11 -o CMakeFiles/driver_openhmd.dir/driverlog.cpp.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/driverlog.cpp\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/driverlog.cpp"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang++ -DOHMD_STATIC -Ddriver_openhmd_EXPORTS -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openvr\" -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -Wall -std=gnu++11 -o CMakeFiles/driver_openhmd.dir/driver_openhmd.cpp.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/driver_openhmd.cpp\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/driver_openhmd.cpp"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/openhmd.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/openhmd.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/openhmd.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/platform-win32.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/platform-win32.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/platform-win32.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/drv_dummy/dummy.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_dummy/dummy.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_dummy/dummy.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/omath.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/omath.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/omath.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/platform-posix.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/platform-posix.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/platform-posix.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/fusion.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/fusion.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/fusion.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/shaders.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/shaders.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/shaders.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/drv_oculus_rift/rift.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_oculus_rift/rift.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_oculus_rift/rift.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/drv_oculus_rift/rift-hmd-radio.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_oculus_rift/rift-hmd-radio.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_oculus_rift/rift-hmd-radio.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/drv_oculus_rift/packet.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_oculus_rift/packet.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_oculus_rift/packet.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/ext_deps/nxjson.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/ext_deps/nxjson.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/ext_deps/nxjson.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/drv_oculus_rift_s/rift-s.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_oculus_rift_s/rift-s.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_oculus_rift_s/rift-s.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/drv_oculus_rift_s/rift-s-controller.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_oculus_rift_s/rift-s-controller.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_oculus_rift_s/rift-s-controller.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/drv_oculus_rift_s/rift-s-firmware.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_oculus_rift_s/rift-s-firmware.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_oculus_rift_s/rift-s-firmware.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/drv_oculus_rift_s/rift-s-protocol.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_oculus_rift_s/rift-s-protocol.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_oculus_rift_s/rift-s-protocol.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/drv_oculus_rift_s/rift-s-radio.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_oculus_rift_s/rift-s-radio.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_oculus_rift_s/rift-s-radio.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/drv_deepoon/deepoon.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_deepoon/deepoon.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_deepoon/deepoon.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/drv_deepoon/packet.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_deepoon/packet.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_deepoon/packet.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/drv_wmr/wmr.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_wmr/wmr.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_wmr/wmr.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/drv_wmr/packet.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_wmr/packet.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_wmr/packet.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/drv_psvr/psvr.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_psvr/psvr.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_psvr/psvr.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/drv_psvr/packet.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_psvr/packet.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_psvr/packet.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/drv_htc_vive/vive.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_htc_vive/vive.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_htc_vive/vive.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/drv_htc_vive/packet.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_htc_vive/packet.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_htc_vive/packet.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/drv_nolo/nolo.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_nolo/nolo.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_nolo/nolo.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/drv_nolo/packet.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_nolo/packet.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_nolo/packet.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/drv_3glasses/xgvr.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_3glasses/xgvr.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_3glasses/xgvr.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/drv_3glasses/packet.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_3glasses/packet.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_3glasses/packet.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/drv_vrtek/vrtek.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_vrtek/vrtek.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_vrtek/vrtek.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/drv_vrtek/packet.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_vrtek/packet.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_vrtek/packet.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -fvisibility=hidden -std=gnu99 -o subprojects/openhmd/CMakeFiles/openhmd.dir/src/drv_external/external.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_external/external.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/src/drv_external/external.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build/include\" -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIE -std=gnu99 -o subprojects/openhmd/examples/simple/CMakeFiles/simple.dir/simple.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/examples/simple/simple.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/examples/simple/simple.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build/include\" -I/usr/local/include/SDL2 -F/Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/System/Library/Frameworks -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIE -std=gnu99 -o subprojects/openhmd/examples/opengl/CMakeFiles/openglexample.dir/gl.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/examples/opengl/gl.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/examples/opengl/gl.c"
+},
+{
+  "directory": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+  "command": "/usr/bin/clang -DDRIVER_DEEPOON -DDRIVER_EXTERNAL -DDRIVER_HTC_VIVE -DDRIVER_NOLO -DDRIVER_OCULUS_RIFT -DDRIVER_OCULUS_RIFT_S -DDRIVER_PSVR -DDRIVER_VRTEK -DDRIVER_WMR -DDRIVER_XGVR -DOHMD_STATIC -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/include\" -I/usr/local/include/hidapi -I\"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build/include\" -I/usr/local/include/SDL2 -F/Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/System/Library/Frameworks -O2 -g -DNDEBUG -isysroot /Applications/Developer/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIE -std=gnu99 -o subprojects/openhmd/examples/opengl/CMakeFiles/openglexample.dir/main.c.o -c \"/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/examples/opengl/main.c\"",
+  "file": "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/subprojects/openhmd/examples/opengl/main.c"
+}
+]

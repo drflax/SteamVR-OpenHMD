@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "subprojects/openhmd/examples/opengl",
+		"source" : "subprojects/openhmd/examples/opengl"
+	}
+}

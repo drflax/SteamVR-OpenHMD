@@ -1,0 +1,182 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-RelWithDebInfo-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "subprojects/openhmd",
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-subprojects.openhmd-RelWithDebInfo-d1ac79df516b399bb4df.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "subprojects/openhmd",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "subprojects/openhmd/examples/simple",
+					"jsonFile" : "directory-subprojects.openhmd.examples.simple-RelWithDebInfo-0009ff032dc498acb114.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "subprojects/openhmd/examples/simple",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "subprojects/openhmd/examples/opengl",
+					"jsonFile" : "directory-subprojects.openhmd.examples.opengl-RelWithDebInfo-3f0f28dbe824dbcae3b0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 3,
+					"source" : "subprojects/openhmd/examples/opengl",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "driver_openhmd",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "openhmd",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "simple",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "openglexample",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "driver_openhmd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-driver_openhmd-RelWithDebInfo-52b7981a4ce02b881a34.json",
+					"name" : "driver_openhmd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "openglexample::@5c4b37efcec3ddd6d1de",
+					"jsonFile" : "target-openglexample-RelWithDebInfo-2dc14fda87658c04a2e2.json",
+					"name" : "openglexample",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "openhmd::@40edc8fdc9c617dab349",
+					"jsonFile" : "target-openhmd-RelWithDebInfo-944e879d25e8eac18380.json",
+					"name" : "openhmd",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "simple::@0f323aef738d54df2b72",
+					"jsonFile" : "target-simple-RelWithDebInfo-16cafcbf22de19d452b8.json",
+					"name" : "simple",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD/build",
+		"source" : "/Volumes/Macintosh HD RED 2/Descargas/VRmac/oculus/git/SteamVR-OpenHMD"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
